@@ -10,10 +10,11 @@ Please carry on the following tasks:
    
    - Upon completion, you can push your solution to github
    
-   # 2. Ruby on Rails Task
+# 2. Ruby on Rails Task
  
  - please find the task for the Ruby Backend Position:
  
    - Given the algorithm attached `pricing_algorithm.rb`, how can we refactor the code to conform to DRY and SOLID principles.
    
    - Upon completion, you can push your solution to github
+
